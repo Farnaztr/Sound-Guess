@@ -1,6 +1,6 @@
 #  Sound-Guess
 
-**Sound-Guess** is a creative C# console application that guesses a song you might like — based on your favorite **job**, **color**, and **instrument**. It features a smooth typewriter-style message display for extra fun! 🎶
+**Sound-Guess** is a creative C# console application that guesses a song you might like — based on your favorite **job**, **color**, and **instrument**. It features a smooth typewriter-style message display for extra fun! 
 
 ##  How It Works
 
@@ -15,7 +15,7 @@ It then analyzes your answers and gives a song suggestion that could match your 
 
  All messages are shown using a cool **TypeMessage** effect — each letter appears one by one like it's being typed in real time!
  
-## 🎯 Why This Project?
+##  Why This Project?
 
 - To practice basic and intermediate C# concepts
 - To explore creative coding ideas
